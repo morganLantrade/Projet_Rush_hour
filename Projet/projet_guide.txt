@@ -1,15 +1,19 @@
 	Guide Projet
 
-1) Etablir les structures de donn�es et les classes:
-		Class: Vehicule
-				Grille (AffichageGrille) , (solveur,creer grille) (a la fin)
-				Fichier.cvs (optionnel)
-				Stocker cvs (optionnel)
+1) Etablir les structures de données et les classes:
+		Class: 	Vehicule
+			Grille (AffichageGrille) , (solveur,creer grille) (a la fin)
+			Fichier.cvs (optionnel) # Constituera une base de données de niveaux.
+			Stocker.cvs (optionnel) # Stockera des classements.
 				
-				Partie cp,joue,temps,5
-				AffichageMenu1,2choix grille,partie
+			Partie : compteur de coups, bouton jouer, temps, niveau des levels
+			Affichage Menu1,2 choix grille (niveau) ,partie
 
-				Main
-2) Constuire une Charte Graphique � l�echelle
+			Main
+				
+				
+				
+2) Constuire une Charte Graphique à l’echelle:
+	En cours, à établir.
 
-3) Faire une version jouable sans graphisme (rectangle couleur)
+3) Faire une version jouable sans graphisme / épuré (rectangle couleur)
