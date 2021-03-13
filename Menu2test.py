@@ -33,7 +33,7 @@ frame1_btn.pack(fill='x', ipady=16)
 
 label = Label(frame2, image=photo, bg='yellow')
 label.image = photo
-label.pack(anchor='n')
+label.pack()
 
 frame2_btn = Button(frame2, text='Enter',command=lambda:show_frame(frame1))
 frame2_btn.pack(fill='x',ipady=20)
