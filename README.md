@@ -12,6 +12,7 @@ Le bouton indice est disponible à partir de 5 secondes. Il enregistre dans la p
 il suffit de cliquer sur la flèche avant pour résoudre le puzzle.
 
 A faire : 
+
 -Nous nous sommes rendu comptes à postériori que la gestion de Threads étaient important pour la réalisation d'une
 application.
 
