@@ -18,5 +18,13 @@ application.
 notre projet.
 
 
+Display Menu : 
 
 ![alt text](https://github.com/morganLantrade/Projet_Rush_hour/blob/main/readme_png/menu_1.png)
+![alt text](https://github.com/morganLantrade/Projet_Rush_hour/blob/main/readme_png/menu_2.png)
+
+Display Gameplay :
+
+![alt text](https://github.com/morganLantrade/Projet_Rush_hour/blob/main/readme_png/jeu_1.png)
+![alt text](https://github.com/morganLantrade/Projet_Rush_hour/blob/main/readme_png/jeu_2.png)
+![alt text](https://github.com/morganLantrade/Projet_Rush_hour/blob/main/readme_png/jeu_3.png)
