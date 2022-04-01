@@ -14,6 +14,7 @@ il suffit de cliquer sur la flèche avant pour résoudre le puzzle.
 A faire : 
 -Nous nous sommes rendu comptes à postériori que la gestion de Threads étaient important pour la réalisation d'une
 application.
+
 -Nous n'avions pas les connaissances requises pour générer des parties(puzzles) intéressantes pour les inclures dans
 notre projet.
 
