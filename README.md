@@ -1,6 +1,6 @@
-Par Anaïs Bain et Morgan Lantrade (2020-2021)   
+Par Anaïs Bains et Morgan Lantrade (2020-2021)   
 
-Ce projet a été réalisé durant notre seconde année d'études en double licence Mathématiques-Informatiques avec une grande
+Ce projet a été réalisé durant notre seconde année d'étude en double licence Mathématiques-Informatiques avec une grande
 autonomie. 
 Le projet avait pour but de juger notre gestion de la programmation objet, de la gestion des événements et de la gestion
 d'un projet à plusieurs.
@@ -16,7 +16,7 @@ A faire :
 -Nous nous sommes rendu comptes à postériori que la gestion de Threads étaient important pour la réalisation d'une
 application.
 
--Nous n'avions pas les connaissances requises pour générer des parties(puzzles) intéressantes pour les inclures dans
+-Nous n'avions pas les connaissances requises pour générer des parties (puzzles) intéressantes pour les inclures dans
 notre projet.
 
 
